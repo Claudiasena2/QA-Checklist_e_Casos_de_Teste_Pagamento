@@ -1,13 +1,13 @@
-# QA - Testes de API e Banco de Dados 🚀
+# QA - Checklist e Casos de Teste de Pagamento 💳
 
-Este repositório contém a documentação técnica e os artefatos de testes práticos voltados para a validação de APIs (REST/JSON) e consultas estruturadas a bancos de dados, desenvolvidos como parte da minha consolidação técnica em Garantia de Qualidade (QA).
+Este repositório contém os artefatos de testes funcionais desenvolvidos para a validação da interface e do comportamento das janelas de "Método de pagamento e Adicionar cartão" de uma aplicação web, simulando cenários reais de checkout.
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
-* **Validação de APIs:** Postman (métodos GET, POST, PUT, DELETE)
-* **Formato de Dados:** JSON (análise de corpo e status code)
-* **Banco de Dados:** Linguagem SQL para consultas e validações estruturadas
-* **Gestão de Testes:** Design de Casos de Teste (Test Cases) aplicados a cenários reais de integração
+* **Design de Testes:** Criação de Checklists de layout e funcionalidade
+* **Técnicas de QA:** Casos de Teste (Test Cases), Análise de Valores-Limite e Classes de Equivalência
+* **Gestão de Defeitos:** Integração e reporte de bugs com links diretos para o Jira
+* **Ambiente de Teste:** Google Chrome (Resolução 800x600)
 
 ## 📋 Conteúdo do Repositório
-* Planejamento de cenários de testes funcionais de ponta a ponta.
-* Planilhas estruturadas contendo cenários de validação de requisições de API e consultas SQL.
+* Planilha estruturada contendo o mapeamento de cenários aprovados e reprovados.
+* Registro técnico de falhas com mapeamento de causa-raiz para a equipe de engenharia.
